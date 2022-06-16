@@ -1,4 +1,3 @@
-
 #### Exercise 1
 Create a constructor of Dog. Make sure it has the attributes name, breed, color, gender. There are no methods in this class. The main function below should work with the class you create.
 
@@ -14,7 +13,7 @@ function main(){
 
 main();
 
-```
+
 
 
 #### Exercise 2
